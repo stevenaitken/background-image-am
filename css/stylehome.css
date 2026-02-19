@@ -17,6 +17,14 @@ body
     
 }
 
+    header 
+     {
+        background-image: url('../images/stags.jpg');
+        background-size: cover;
+        background-position-y: center;
+        background-position-x: center;
+     }
+
 /* Flex wrapper */
 .wrapper 
 {
@@ -110,4 +118,5 @@ footer
       { text-align: center;
        flex-direction: column;
       }
+
 }
